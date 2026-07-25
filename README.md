@@ -8,9 +8,9 @@ starting the sheet from 27 july, 2026 (Monday)
 
 
 This also includes the journey of my contests in:  
---LeetCode
---CodeChef
---Codeforces
+--LeetCode  
+--CodeChef  
+--Codeforces  
 --AtCoder  
 
 
