@@ -1,1 +1,17 @@
+1. Input Output
 
+2. Cpp Basics
+
+3. If ElseIf
+
+4. Switch Case
+
+5. What are arrays, strings?
+	
+6. For loops
+	
+7. While loops
+	
+8. Functions (Pass by Reference and Value)
+	
+9. Theory with examples
