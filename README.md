@@ -1,11 +1,10 @@
-# DSA-SQL Journey  
+# DSA Journey  
 ## Every Day Counts  
-My day-to-day DSA & SQL Journey  
+My day-to-day DSA Journey  
 Starting with:  
 # A2Z Striver's Sheet  
 (for DSA)  
 starting the sheet from 27 july, 2026 (Monday)
-# SQL 150 
 
 This also includes the journey of my contests in:  
 --LeetCode  
