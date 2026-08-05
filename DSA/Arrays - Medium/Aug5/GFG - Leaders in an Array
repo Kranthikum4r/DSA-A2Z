@@ -1,0 +1,20 @@
+class Solution {
+  public:
+    vector<int> leaders(vector<int>& arr) {
+        int r = arr.size() - 2;
+        vector<int> leaders;
+        
+        int maxright = arr[r+1];
+        leaders.push_back(maxright);
+        
+        while(r >= 0) {
+            if(arr[r] >= maxright) {
+                maxright = arr[r];
+                leaders.push_back(maxright);
+            }
+            r--;
+        }
+        reverse(leaders.begin(), leaders.end());
+        return leaders;
+    }
+};
