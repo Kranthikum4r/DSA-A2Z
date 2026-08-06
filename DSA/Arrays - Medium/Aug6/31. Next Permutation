@@ -1,0 +1,31 @@
+class Solution {
+public:
+    void nextPermutation(vector<int>& nums) {
+        int n = nums.size();
+
+        int breakpoint = -1;
+        // find breakpoint(element less than it's next element)
+        for(int i = n-2; i >= 0; i--) {
+            if(nums[i] < nums[i+1]) {
+                breakpoint = i;
+                break;
+            }
+        }
+
+        // if no breakpoint reverse the entire number
+        if(breakpoint == -1) {
+            reverse(nums.begin(), nums.end());
+            return;
+        }
+
+        // swap the breakpoint element with the first greater element from the end
+        for(int i = n-1; i >= breakpoint; i--) {
+            if(nums[i] > nums[breakpoint]) {
+                swap(nums[i], nums[breakpoint]);
+                break;
+            }
+        }
+        // reverse the part from next of breaking point to the end
+        reverse(nums.begin() + breakpoint + 1, nums.end());
+    }
+};
