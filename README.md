@@ -1,5 +1,4 @@
 # DSA Journey  
-## Every Day Counts  
 My day-to-day DSA Journey  
 Starting with:  
 # A2Z Striver's Sheet  
