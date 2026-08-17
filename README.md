@@ -1,17 +1,13 @@
 # DSA Journey  
-My day-to-day DSA Journey  
-Starting with:  
 # A2Z Striver's Sheet  
-(for DSA)  
-starting the sheet from 27 july, 2026 (Monday)
 
-This also includes the journey of my contests in:  
+attending contests on:  
 --LeetCode  
 --CodeChef  
 --Codeforces  
+
+wanna attend on:
+--Codeforces  
 --AtCoder  
 
-
-Trying to solve problems in CodeChef, Codeforces
-
-## Want to achieve a guardian badge(1900 rating) and daily challenge badges
+Trying to solve problems on Codeforces  
