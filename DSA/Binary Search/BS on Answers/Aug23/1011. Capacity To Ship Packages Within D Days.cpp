@@ -22,7 +22,7 @@ public:
         int l = 0, h = 0;
         
         for(int w : weights) {
-            l = max(l, w); // max element
+            l = max(l, w); // max element is the minimum capacity(inorder that every can be loaded)
             h += w; // sum of weights
         }
         
