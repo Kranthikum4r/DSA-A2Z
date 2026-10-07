@@ -9,8 +9,7 @@ public:
         for(char c : s) {
             if(c == '(') {
                 st.push(c);
-                int x = st.size();
-                ans = max(ans, x);
+                ans = max(ans, (int)st.size();
             }
             else if(c == ')') {
                 st.pop();
