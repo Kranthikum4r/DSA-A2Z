@@ -1,3 +1,1 @@
-# DSA Journey  
-# A2Z Striver's Sheet  
-# Contests 
+# A2Z Striver's Sheet
