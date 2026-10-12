@@ -1,4 +1,4 @@
-(Link)[https://www.geeksforgeeks.org/problems/powx-n/1]
+(https://www.geeksforgeeks.org/problems/powx-n/1)[Link]
 
 ```
 class Solution {
