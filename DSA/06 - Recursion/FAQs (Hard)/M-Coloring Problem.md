@@ -1,4 +1,5 @@
 # M-Coloring Problem – Recursion and Backtracking
+[Problem Link](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)
 
 **Platform:** GeeksforGeeks  
 **Difficulty:** Medium  
