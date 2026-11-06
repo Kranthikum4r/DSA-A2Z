@@ -1,4 +1,5 @@
 # Deletion of the Tail of a Singly Linked List
+[Problem Link](https://takeuforward.org/practice/dsa/deletion-of-the-tail-of-ll)
 
 ## 1. Definition
 
