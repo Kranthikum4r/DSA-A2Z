@@ -1,4 +1,5 @@
 # Deletion of the Kth Node in a Singly Linked List
+[Problem Link](https://takeuforward.org/practice/dsa/deletion-of-the-kth-element-of-ll)
 
 ## 1. Definition
 
