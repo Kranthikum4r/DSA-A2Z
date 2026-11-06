@@ -1,4 +1,5 @@
 # Deletion of the Head of a Singly Linked List
+[Problem Link](https://takeuforward.org/practice/dsa/deletion-of-the-head-of-ll)
 
 ## 1. Definition
 
