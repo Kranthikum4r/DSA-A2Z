@@ -1,4 +1,5 @@
 # Insertion at the Kth Position of Linked List
+[Problem Link](https://takeuforward.org/practice/dsa/insertion-at-the-kth-position-of-ll?tab=problem)
 
 ## Problem Statement
 Given the head of a singly linked list and two integers `X` and `K`, insert a new node with value `X` at the Kth position (1-based indexing) and return the modified head.
