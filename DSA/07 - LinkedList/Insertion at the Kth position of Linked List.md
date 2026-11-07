@@ -1,4 +1,4 @@
-# 954. Insertion at the Kth Position of Linked List
+# Insertion at the Kth Position of Linked List
 
 ## Problem Statement
 Given the head of a singly linked list and two integers `X` and `K`, insert a new node with value `X` at the Kth position (1-based indexing) and return the modified head.
